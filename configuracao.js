@@ -6,7 +6,7 @@ const chalk = require('chalk')
 // ============ [ CONFIGURAÇÃO ] ============ \\
 
 
-global.NomeDoDono = 'AlizinDev' //Preencha aqui como o primeiro campo Para o seu NOME
+global.NomeDoDono = 'FantasmaSexo' //Preencha aqui como o primeiro campo Para o seu NOME
 
 global.menu = 'https://telegra.ph/file/b2d75aaaed21ed7b91d49.jpg' //Preencha aqui como o primeiro campo Para a sua LOGO > FOTO DO MENU. ( OU DE ALGO QUE VC DEFINIR )
 
