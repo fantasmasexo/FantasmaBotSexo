@@ -235,7 +235,7 @@ const isBot = info.key.fromMe ? true : false
 
  //// FIMM \\
 /// FUNÇÃO DO NOME / NUMERO / DONO / LOGO DA FOTO DO MENU / SENDER
-const pushname = m.pushName || "DUDA-BASE"
+const pushname = m.pushName || "FANTASMIN-BOT"
 
 const logo = global.menu
 
@@ -245,15 +245,15 @@ const logo = global.menu
 // Contato do dono
 const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
-+ 'FN:ALIZIN-DEV\n' // Nome completo
++ 'FN:FANTASMA-SEXO\n' // Nome completo
 + 'ORG: EQUIPE: NAIPE;\n' // A organização do contato
-+ 'TEL;type=CELL;type=VOICE;waid=5521989701174:+55 21 98970 1174\n'
++ 'TEL;type=CELL;type=VOICE;waid=‪51936365476‬:‪+51 936 365 476‬\n'
 + 'END:VCARD' // Fim do ctt
 
 ///// BOMM USO COM A BASE AI MN \\\\\
 //// FÉ, FÉ, FÉ \\\\\\
  
-const nome = m.pushName || "DUDA-BASE"
+const nome = m.pushName || "FANTASMIN-BOT"
 
 const NumeroDoDonoA = await duda.decodeJid(global.NumeroDoDonoA)
 
