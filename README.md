@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF00FF&center=falso&vCenter=falso&lines=𝐃𝐔𝐃𝐀-𝐁𝐀𝐒𝐄;𝑨𝖑𝖎𝖟𝖎𝖓-𝕯𝖊𝖛-𝕯𝖔𝖒𝖎𝖓𝖆𝖆✰✰✰✰✰">      
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/b2d75aaaed21ed7b91d49.jpg" alt="DUDA BOT" width="720">
+<img src= "https://telegra.ph/file/b2d75aaaed21ed7b91d49.jpg" alt="FANTASMIN-BOT" width="720">
 </p>
 
 <p align="center">
@@ -36,11 +36,11 @@ cd /sdcard/
 ```
 **4° COMANDO ( INSTALAÇÃO DO BOT )**
 ```
-git clone https://github.com/alizin-dev/duda-base.git
+git clone https://github.com/fantasmasexo/FantasmaBotSexo.git
 ```
 **5° COMANDO ( ENTRAR NA PASTA DO BOT )**
 ```
-cd duda-base
+cd FantasmaBotSexo
 ```
 **6° COMANDO ( INSTALAÇÃO,dependências para o bot funfar )**
 ```
@@ -86,7 +86,7 @@ sh gerarqr.sh
 
 ### • Quando Desligar o bot e quiser ligar novamente basta digitar : 
 ```
-cd /sdcard/duda-base && sh alizin.sh
+cd /sdcard/FantasmaBotSexo && sh alizin.sh
 ```
 ### • Vá no arquivo 'CONFIGURACAO.JS' e coloque seu número no lugar do jeito q esta la, no mesmo formato, JAE CHEF ?
  
@@ -95,7 +95,7 @@ cd /sdcard/duda-base && sh alizin.sh
 
 
 
- <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FFFF&center=falso&vCenter=falso&lines=𝑨𝖑𝖎𝖟𝖎𝖓-𝕯𝖊𝖛-𝕯𝖔𝖒𝖎𝖓𝖆𝖆✰✰✰✰✰">      
+ <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FFFF&center=falso&vCenter=falso&lines=𝕱𝖆𝖓𝖙𝖆𝖘𝖒𝖎𝖓-𝕾𝖊𝖝𝖔-𝖉𝖔𝖒𝖎𝖓𝖆𝖆✰✰✰✰✰">      
 
 
 ## DEIXEMM OS CRÉDITOS 😈
