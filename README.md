@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF00FF&center=falso&vCenter=falso&lines=𝐃𝐔𝐃𝐀-𝐁𝐀𝐒𝐄;𝕱𝖆𝖓𝖙𝖆𝖘𝖒𝖎𝖓-𝕾𝖊𝖝𝖔 -𝖉𝖔𝖒𝖎𝖓𝖆𝖆✰✰✰✰✰">      
+<img<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF00FF&center=falso&vCenter=falso&lines=𝐃𝐔𝐃𝐀-𝐁𝐀𝐒𝐄;𝑨𝖑𝖎𝖟𝖎𝖓-𝕯𝖊𝖛-𝕯𝖔𝖒𝖎𝖓𝖆𝖆✰✰✰✰✰">       
 <h1 align="center">
 <p>
 <img src= "https://telegra.ph/file/4d29ed3741a67599dc067.jpg" alt="FANTASMIN-BOT" width="720">
