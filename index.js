@@ -441,7 +441,7 @@ headerType: 4,
                 console.log(color("Reinicie se for nescessario..", "yellow"))
             } else if (String(lastDisconnect.error)
                 .includes("Connection was lost")) {
-                console.log(color("koee cria, q net da xuxa, é essa ?kkkk, alizin dev está te hackeando!", "yellow"))
+                console.log(color("koee cria, q net da xuxa, é essa ?kkkk, fantasmin sexo está te hackeando!", "yellow"))
             } else if (String(lastDisconnect.error)
                 .includes("Connection Terminated")) {
                 console.log(color("koee cria, q net da xuxa, é essa ?kkkk alizin dev está te hackeando!", "cyan"))
