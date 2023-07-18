@@ -81,18 +81,18 @@ const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, awa
   const spinner = {
   "interval": 150,
   "frames": [
-  "🕐 D",
-  "🕑 DU",
-  "🕒 DUD",
-  "🕓 DUDA",
-  "🕔 DUDA-B",
-  "🕕 DUDA-BO",  
-  "🕖 DUDA-BOT", 
-  "🕗 DUDA-BOT CO", 
-  "🕘 DUDA-BOT CONE",
-  "🕙 DUDA-BOT CONEC", 
-  "🕚 DUDA-BOT CONECTAN", 
-  "🕛 DUDA-BOT CONECTANDO...",
+  "🕐 F",
+  "🕑 FA",
+  "🕒 FAN",
+  "🕓 FANT",
+  "🕔 FANTAS",
+  "🕕 FANTASMA-",  
+  "🕖 FANTASMA-BOT", 
+  "🕗 FANTASMA-BOT CO", 
+  "🕘 FANTASMA-BOT CONE",
+  "🕙 FANTASMA-BOT CONEC", 
+  "🕚 FANTASMA-BOT CONECTAN", 
+  "🕛 FANTASMA-BOT CONECTANDO...",
   ]}
 //=====================================     
  let globalSpinner;
