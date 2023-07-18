@@ -8,7 +8,7 @@ const chalk = require('chalk')
 
 global.NomeDoDono = 'FantasmaSexo' //Preencha aqui como o primeiro campo Para o seu NOME
 
-global.menu = 'https://telegra.ph/file/b2d75aaaed21ed7b91d49.jpg' //Preencha aqui como o primeiro campo Para a sua LOGO > FOTO DO MENU. ( OU DE ALGO QUE VC DEFINIR )
+global.menu = 'https://telegra.ph/file/4d29ed3741a67599dc067.jpg' //Preencha aqui como o primeiro campo Para a sua LOGO > FOTO DO MENU. ( OU DE ALGO QUE VC DEFINIR )
 
 global.NomeDobot = FantasminBotSexo' //Preencha aqui como o primeiro campo Para o nome do seu BOT
 
