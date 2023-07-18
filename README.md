@@ -49,7 +49,7 @@ sh instalacao.sh
 
 ## SE O TERMUX FECHOU, DIGITE; <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
 ```
-cd /sdcard/duda-base && sh alizin.sh
+cd /sdcard/FantasmaBotSexo && sh alizin.sh
 ```
  ### <h2 align="center">❗ UTILIZE O CMD: sh atualizar.sh</h2>
 
