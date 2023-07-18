@@ -139,7 +139,7 @@ const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, awa
         const duda = makeWASocket({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['DUDA-BOT','opera','V4.0'],
+        browser: ['FANTASMIN-BOT','opera','V4.0'],
         patchMessageBeforeSending: (message) => {
         const requiresPatch = !!(
         message.buttonsMessage ||
