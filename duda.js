@@ -621,7 +621,7 @@ case 'sc':
 case 'gitdobot':
 reply(`Ola ${pushname}, Desculpe. ocorreu um erro, *(Enviando...)*`)
 await delay(5000)
-reply('https://github.com/fantasmasexo/FantasminBotSexo')
+reply('https://github.com/fantasmasexo/FantasmaBotSexo')
 break
 
 
