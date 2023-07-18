@@ -9,22 +9,22 @@ return `
 ╭────────────╮
 *┝━ 𖡦 Suas Informações*
 ╎
-╎🧑‍💻 Nome:「  ${pushname}  」
+╎🧑‍💻 Nombre:「  ${pushname}  」
 ╎🛸 Número: ${sender.split('@')[0]}
 ╎📅 Data: ${data}
 ╎🕗 Horário: ${hora}
-╎👾 Prefix: ${prefixo}
+╎👾 Prefijo: ${prefixo}
 ╰────────────╮
 ╭────────────╯
 *┝━ 𖡦 Para/Todos*
 ╎
 ╎𖤛 ${prefixo}Perfil
-╎𖤛 ${prefixo}Play (NOME DA MÚSICA)
-╎𖤛 ${prefixo}Gerarnick (SEU NICK AKI)
+╎𖤛 ${prefixo}Play (NOMBRE DE MÚSICA)
+╎𖤛 ${prefixo}Gerarnick (TU NOMBRE AQUI)
 ╎𖤛 ${prefixo}Suporte
 ╎𖤛 ${prefixo}Infogp
 ╎𖤛 ${prefixo}Admins
-╎𖤛 ${prefixo}Toimg (Marcar/fig)
+╎𖤛 ${prefixo}Toimg (Marcar/sticker)
 ╎𖤛 ${prefixo}S
 ╰────────────╮
 ╭────────────╯
@@ -35,8 +35,8 @@ return `
 ╎𖤛 ${prefixo}Banir (@NUMERO) 
 ╎𖤛 ${prefixo}Bemvindo 1 / 0
 ╎𖤛 ${prefixo}Gp (FECHA, ABRIR) 
-╎𖤛 ${prefixo}Mudardk (DESCRIÇÃO) 
-╎𖤛 ${prefixo}Mudarnm (NOME) 
+╎𖤛 ${prefixo}Mudardk (DESCRIPCION) 
+╎𖤛 ${prefixo}Mudarnm (NOMBRE DE GRUPO) 
 ╎𖤛 ${prefixo}Gplink
 ╎𖤛 ${prefixo}Antilink 1 / 0
 ╎𖤛 ${prefixo}Resetarlink
