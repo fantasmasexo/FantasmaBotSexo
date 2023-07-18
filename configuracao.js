@@ -27,12 +27,12 @@ global.banChats = false         /////
 
 
 
-global.author = 'AlizinDev' //Preencha aqui como o primeiro campo Para o seu NOME ( NOME DA FIGURINHA )
+global.author = 'FantasmaSexo' //Preencha aqui como o primeiro campo Para o seu NOME ( NOME DA FIGURINHA )
 
-global.packname = 'DUDA-BASE' // Preencha aqui como o primeiro campo visivel a marca d'agua dos stickers. ( NOME DA FIGURINHA )
+global.packname = 'FantasminBotSexo' // Preencha aqui como o primeiro campo visivel a marca d'agua dos stickers. ( NOME DA FIGURINHA )
 
-global.packname2 = 'DUDA-MULTI' // Preencha aqui como o segundo campo visivel a marca d'agua dos stickers.
+global.packname2 = 'FantasminBot' // Preencha aqui como o segundo campo visivel a marca d'agua dos stickers.
 
 global.sessionName = 'QR-DA-DUDA-BOT' // N precisa alterar isso, este campo tem funcao de alterar o nome do qr-code.
 
-global.linkgrupss = 'https://chat.whatsapp.com/GcI1l0sflb2BMM199DmxOf' // Preencha com link do seu grupo ou deixe-o vazio.
+global.linkgrupss = '' // Preencha com link do seu grupo ou deixe-o vazio.
