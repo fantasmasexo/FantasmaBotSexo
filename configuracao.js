@@ -10,11 +10,11 @@ global.NomeDoDono = 'FantasmaSexo' //Preencha aqui como o primeiro campo Para o 
 
 global.menu = 'https://telegra.ph/file/b2d75aaaed21ed7b91d49.jpg' //Preencha aqui como o primeiro campo Para a sua LOGO > FOTO DO MENU. ( OU DE ALGO QUE VC DEFINIR )
 
-global.NomeDobot = 'DUDA-BOT-BASE' //Preencha aqui como o primeiro campo Para o nome do seu BOT
+global.NomeDobot = FantasminBotSexo' //Preencha aqui como o primeiro campo Para o nome do seu BOT
 
 global.prefixo = '.' //Preencha aqui como o primeiro campo Para o seu prefixo ( COMANDO ANTES DO COMANDO )
 
-global.NumeroDoDonoA = ['5521989701174'] //Preencha aqui como o primeiro campo Para o seu NUMERO ( SEM O ' + ' VALEU )
+global.NumeroDoDonoA = ['‪51936365476‬'] //Preencha aqui como o primeiro campo Para o seu NUMERO ( SEM O ' + ' VALEU )
 
 
 ///// NÃO PRECISA MEXER AKI \\\\
